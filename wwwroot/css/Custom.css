@@ -1,2 +1,46 @@
 ﻿#foto1 {
 width: 200px; margin: 2rem 0; border-radius: 50%}
+
+.seccion-bienvenida {
+    margin: 5rem 0 10rem 0;
+    color: black
+}
+
+.seccion-bienvenida h1 {
+    margin-bottom: 1rem;
+    margin-top: -40px;
+}
+
+    .seccion-bienvenida p {
+        font-family: sans-serif;
+        line-height: 1.5;
+        font-size: 1.25rem;
+        text-align: justify;
+        margin-bottom:-1rem
+    }
+
+#imagen {
+    width: 300px
+}
+
+.cabecera {
+    font-weight: bold;
+    color: black
+}
+
+.habilidades ul {
+    list-style: none;
+    padding-left: 0
+}
+
+.habilidades i {
+    color: black;
+    font-size: 50px
+}
+
+
+.color {
+    background-color: #cfcfcf
+}
+
+.margen {margin-top: 20px}

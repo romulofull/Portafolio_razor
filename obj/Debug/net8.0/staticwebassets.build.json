@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2bY1I/q566t8KEG8k7FO06YlkhZiBObacnhL8Er51bc=",
+  "Hash": "2fKXOA8hqD4BxhcvSXrTsYOm+rytzip5S+S/feaVMtY=",
   "Source": "Portafolio",
   "BasePath": "_content/Portafolio",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "vme1qbuqjl",
-      "Integrity": "V8bNYLboG19nyFZETB5frbUb2jczfTYecBXD0BM6n8E=",
+      "Fingerprint": "9bihzjkwfq",
+      "Integrity": "Cxq8+C7NSuf9aEwdto48lcvhubd0dWmarMyGBelSa4k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Custom.css"
@@ -122,6 +122,27 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\imagenes\\Animaciones.png",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "imagenes/Animaciones#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0qv0h0mheg",
+      "Integrity": "mPHfQybayohtcbR887BTZlKIepJn9MOJ9XsuH0+Hgqg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\Animaciones.png"
+    },
+    {
       "Identity": "C:\\Users\\LENOVO\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\imagenes\\descarga.jpeg",
       "SourceId": "Portafolio",
       "SourceType": "Discovered",
@@ -141,6 +162,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagenes\\descarga.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\imagenes\\dibujo.jpeg",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "imagenes/dibujo#[.{fingerprint}]?.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9q5mdyr5fi",
+      "Integrity": "gaurHOVooCJaeoJhSy6oWVsAd5FbyYBQPqZHPW2ZCgs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\dibujo.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\imagenes\\Pizzas.png",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "imagenes/Pizzas#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zubq3u6jvk",
+      "Integrity": "dQbZ5NynIL6+ijuI5jgLv8NhLDu63SZ5S28H0eBs7DM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\Pizzas.png"
+    },
+    {
+      "Identity": "C:\\Users\\LENOVO\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\imagenes\\Restaurante.png",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\LENOVO\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "imagenes/Restaurante#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i6uisxtlrp",
+      "Integrity": "tsZGuDqETQW1q0zarFPt6TuSKxIZ00T2qSSO7Vh5fhc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\Restaurante.png"
     },
     {
       "Identity": "C:\\Users\\LENOVO\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\js\\site.js",
@@ -1363,6 +1447,51 @@
   ],
   "Endpoints": [
     {
+      "Route": "css/Custom.9bihzjkwfq.css",
+      "AssetFile": "C:\\Users\\LENOVO\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\css\\Custom.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "708"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cxq8+C7NSuf9aEwdto48lcvhubd0dWmarMyGBelSa4k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 18:13:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9bihzjkwfq"
+        },
+        {
+          "Name": "label",
+          "Value": "css/Custom.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cxq8+C7NSuf9aEwdto48lcvhubd0dWmarMyGBelSa4k="
+        }
+      ]
+    },
+    {
       "Route": "css/Custom.css",
       "AssetFile": "C:\\Users\\LENOVO\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\css\\Custom.css",
       "Selectors": [],
@@ -1373,7 +1502,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "64"
+          "Value": "708"
         },
         {
           "Name": "Content-Type",
@@ -1381,11 +1510,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"V8bNYLboG19nyFZETB5frbUb2jczfTYecBXD0BM6n8E=\""
+          "Value": "\"Cxq8+C7NSuf9aEwdto48lcvhubd0dWmarMyGBelSa4k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 14:48:02 GMT"
+          "Value": "Sat, 18 Jan 2025 18:13:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1395,52 +1524,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-V8bNYLboG19nyFZETB5frbUb2jczfTYecBXD0BM6n8E="
-        }
-      ]
-    },
-    {
-      "Route": "css/Custom.vme1qbuqjl.css",
-      "AssetFile": "C:\\Users\\LENOVO\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\css\\Custom.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "64"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"V8bNYLboG19nyFZETB5frbUb2jczfTYecBXD0BM6n8E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 15 Jan 2025 14:48:02 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "vme1qbuqjl"
-        },
-        {
-          "Name": "label",
-          "Value": "css/Custom.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-V8bNYLboG19nyFZETB5frbUb2jczfTYecBXD0BM6n8E="
+          "Value": "sha256-Cxq8+C7NSuf9aEwdto48lcvhubd0dWmarMyGBelSa4k="
         }
       ]
     },
@@ -1609,6 +1693,88 @@
       ]
     },
     {
+      "Route": "imagenes/Animaciones.0qv0h0mheg.png",
+      "AssetFile": "C:\\Users\\LENOVO\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\imagenes\\Animaciones.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1953880"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mPHfQybayohtcbR887BTZlKIepJn9MOJ9XsuH0+Hgqg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 14:47:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0qv0h0mheg"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/Animaciones.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mPHfQybayohtcbR887BTZlKIepJn9MOJ9XsuH0+Hgqg="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/Animaciones.png",
+      "AssetFile": "C:\\Users\\LENOVO\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\imagenes\\Animaciones.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1953880"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mPHfQybayohtcbR887BTZlKIepJn9MOJ9XsuH0+Hgqg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 14:47:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mPHfQybayohtcbR887BTZlKIepJn9MOJ9XsuH0+Hgqg="
+        }
+      ]
+    },
+    {
       "Route": "imagenes/descarga.e9e8hmvfap.jpeg",
       "AssetFile": "C:\\Users\\LENOVO\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\imagenes\\descarga.jpeg",
       "Selectors": [],
@@ -1687,6 +1853,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-zoy1ZvuBqmuQ8EpNb7aNLYHGpXpqCa54TrP3hEdq8qs="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/dibujo.9q5mdyr5fi.jpeg",
+      "AssetFile": "C:\\Users\\LENOVO\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\imagenes\\dibujo.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9534"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gaurHOVooCJaeoJhSy6oWVsAd5FbyYBQPqZHPW2ZCgs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jan 2025 01:13:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9q5mdyr5fi"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/dibujo.jpeg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gaurHOVooCJaeoJhSy6oWVsAd5FbyYBQPqZHPW2ZCgs="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/dibujo.jpeg",
+      "AssetFile": "C:\\Users\\LENOVO\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\imagenes\\dibujo.jpeg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9534"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gaurHOVooCJaeoJhSy6oWVsAd5FbyYBQPqZHPW2ZCgs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 17 Jan 2025 01:13:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gaurHOVooCJaeoJhSy6oWVsAd5FbyYBQPqZHPW2ZCgs="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/Pizzas.png",
+      "AssetFile": "C:\\Users\\LENOVO\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\imagenes\\Pizzas.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2458187"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dQbZ5NynIL6+ijuI5jgLv8NhLDu63SZ5S28H0eBs7DM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 13:25:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dQbZ5NynIL6+ijuI5jgLv8NhLDu63SZ5S28H0eBs7DM="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/Pizzas.zubq3u6jvk.png",
+      "AssetFile": "C:\\Users\\LENOVO\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\imagenes\\Pizzas.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2458187"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dQbZ5NynIL6+ijuI5jgLv8NhLDu63SZ5S28H0eBs7DM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 13:25:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zubq3u6jvk"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/Pizzas.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dQbZ5NynIL6+ijuI5jgLv8NhLDu63SZ5S28H0eBs7DM="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/Restaurante.i6uisxtlrp.png",
+      "AssetFile": "C:\\Users\\LENOVO\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\imagenes\\Restaurante.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1491885"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tsZGuDqETQW1q0zarFPt6TuSKxIZ00T2qSSO7Vh5fhc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 14:48:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i6uisxtlrp"
+        },
+        {
+          "Name": "label",
+          "Value": "imagenes/Restaurante.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tsZGuDqETQW1q0zarFPt6TuSKxIZ00T2qSSO7Vh5fhc="
+        }
+      ]
+    },
+    {
+      "Route": "imagenes/Restaurante.png",
+      "AssetFile": "C:\\Users\\LENOVO\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\imagenes\\Restaurante.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1491885"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tsZGuDqETQW1q0zarFPt6TuSKxIZ00T2qSSO7Vh5fhc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 14:48:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tsZGuDqETQW1q0zarFPt6TuSKxIZ00T2qSSO7Vh5fhc="
         }
       ]
     },

@@ -2,7 +2,6 @@ using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Portafolio.Models;
 
-
 namespace Portafolio.Controllers
 {
     public class HomeController : Controller
@@ -15,14 +14,57 @@ namespace Portafolio.Controllers
         }
 
         public IActionResult Index()
-
         {
             var persona = new Persona
             {
                 Nombre = "Romulo Castro",
-                Edad = 14
+                Nacionalidad = "Español"
             };
-            return View(persona);
+
+            var proyectos = ObtenerProyectos().Take(3).ToList();
+
+            var modelo = new HomeIndexViewModel()
+            {
+                Persona = persona,  
+                Proyectos = proyectos
+            };
+
+            return View(modelo);
+        }
+
+        private List<Proyecto> ObtenerProyectos()
+        {
+            return new List<Proyecto>()
+            {
+                new Proyecto
+                {
+                    Titulo = "E-commerce",
+                    Descripcion = "HTML5 y CSS3",
+                    Link = "https://github.com/romulofull/Restaurant",
+                    ImagenURL = "/imagenes/Restaurante.png"
+                },
+                new Proyecto
+                {
+                    Titulo = "Animaciones",
+                    Descripcion = "HTML5, CSS3, SASS, Animaciones-CSS",
+                    Link = "https://github.com/romulofull/Naturaleza_Ecuador",
+                    ImagenURL = "/imagenes/Animaciones.png"
+                },
+                new Proyecto
+                {
+                    Titulo = "Restaurante Latino",
+                    Descripcion = "HTML5 Y CSS3",
+                    Link = "https://github.com/romulofull/Restaurante-objectfitcover",
+                    ImagenURL = "/imagenes/Pizzas.png"
+                },
+                new Proyecto
+                {
+                    Titulo = "E-commerce",
+                    Descripcion = "E-commerce venta",
+                    Link = "https://github.com/romulofull/Restaurante-objectfitcover",
+                    ImagenURL = "/imagenes/OtroRestaurante.jpg"
+                }
+            };
         }
 
         public IActionResult Privacy()

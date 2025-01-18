@@ -17,8 +17,24 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\imagenes\\Animaciones.png",
+      "PackagePath": "staticwebassets\\imagenes\\Animaciones.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\imagenes\\Pizzas.png",
+      "PackagePath": "staticwebassets\\imagenes\\Pizzas.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\imagenes\\Restaurante.png",
+      "PackagePath": "staticwebassets\\imagenes\\Restaurante.png"
+    },
+    {
       "Id": "C:\\Users\\LENOVO\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\imagenes\\descarga.jpeg",
       "PackagePath": "staticwebassets\\imagenes\\descarga.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\imagenes\\dibujo.jpeg",
+      "PackagePath": "staticwebassets\\imagenes\\dibujo.jpeg"
     },
     {
       "Id": "C:\\Users\\LENOVO\\source\\repos\\Portafolio\\Portafolio\\wwwroot\\js\\site.js",

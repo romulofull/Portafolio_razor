@@ -32,3 +32,4 @@ C:\Users\LENOVO\source\repos\Portafolio\Portafolio\obj\Debug\net8.0\refint\Porta
 C:\Users\LENOVO\source\repos\Portafolio\Portafolio\obj\Debug\net8.0\Portafolio.pdb
 C:\Users\LENOVO\source\repos\Portafolio\Portafolio\obj\Debug\net8.0\Portafolio.genruntimeconfig.cache
 C:\Users\LENOVO\source\repos\Portafolio\Portafolio\obj\Debug\net8.0\ref\Portafolio.dll
+C:\Users\LENOVO\source\repos\Portafolio\Portafolio\obj\Debug\net8.0\Portafolio.sourcelink.json

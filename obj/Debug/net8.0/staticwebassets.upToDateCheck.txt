@@ -1,7 +1,11 @@
 wwwroot\css\Custom.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\imagenes\Animaciones.png
 wwwroot\imagenes\descarga.jpeg
+wwwroot\imagenes\dibujo.jpeg
+wwwroot\imagenes\Pizzas.png
+wwwroot\imagenes\Restaurante.png
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
